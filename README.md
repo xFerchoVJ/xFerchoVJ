@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Not yet
+- 🔭 I’m currently working on ... Ruby on rails and React
 - 🌱 I’m currently learning ... Ruby on Rails, React and React Native!
-- 👯 I’m looking to collaborate on ... React
-- 🤔 I’m looking for help with ... Ruby on Rails
+- 👯 I’m looking to collaborate on ... React and Ruby on Rails
+- 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/xferchovj/)
 - 😄 Pronouns: ... He/him
