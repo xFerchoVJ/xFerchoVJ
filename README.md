@@ -7,4 +7,4 @@
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/xferchovj/)
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... I'm a half finish
+- ⚡ Fun fact: ... I'm a half finish my university
