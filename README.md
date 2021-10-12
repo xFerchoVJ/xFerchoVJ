@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fer_elsword@hotmail.com**
 
-- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/fernando-viveros/)
+- 📄 Know about my experiences [Linkedin](http://www.linkedin.com/in/fernando-viveros/)
 
 
 <h3 align="left">Languages and Tools:</h3>
