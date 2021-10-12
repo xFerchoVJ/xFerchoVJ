@@ -2,7 +2,7 @@
 <h3 align="center">Systems engineer who loves software development from Mexico!</h3>
 
 - 🌱 I’m currently learning **React and Rails**
-- 
+
 - 💬 Ask me about **Javascript, React, Rails or anything**
 
 - 📫 How to reach me **fer_elsword@hotmail.com**
