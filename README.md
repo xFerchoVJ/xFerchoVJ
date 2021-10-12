@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Fernando Viveros</h1>
 <h3 align="center">Systems engineer who loves software development from Mexico!</h3>
 
