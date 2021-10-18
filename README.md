@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript, React, Rails or anything**
 
-- 📫 How to reach me **fer_elsword@hotmail.com**
+- 📫 How to reach me **fernandovj.dev@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](http://www.linkedin.com/in/fernando-viveros/)
 
