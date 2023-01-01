@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Viveros</h1>
 <h3 align="center">Systems engineer who loves software development from Mexico!</h3>
 
-- 🌱 I’m currently learning **Salesforce Commerce Cloud & Node.js**
+- 🌱 I’m currently working with **Salesforce Commerce Cloud && Shopify **
 
 - 💬 Ask me about **Javascript, React, Rails or anything**
 
