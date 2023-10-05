@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Viveros</h1>
 <h3 align="center">Systems engineer who loves software development from Mexico!</h3>
 
-- 🌱 I’m currently working with **MySQL, Node, Express, React && Ruby On Rails **
+- 🌱 I’m currently working with **Next && Ruby On Rails**
 
 - 💬 Ask me about **Javascript, React, Rails or anything**
 
