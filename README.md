@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap"width="40" height="40">
   </a>
   <a href="https://www.salesforce.com/products/commerce-cloud/overview/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Yomogl5dbmbfBL5mlGPwCAAAAA%26pid%3DApi&f=1" alt="Salesforce Commerce Cloud" width="auto" height="40" />
+    <img src="https://a.sfdcstatic.com/shared/images/c360-nav/mobile_logo.png" alt="Salesforce Commerce Cloud" width="auto" height="40" />
   </a>
   <a href="https://nodejs.org/es/" target="_blank">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1kdA13MUYkVnFmbnoO3dHwHaEV%26pid%3DApi&f=1" alt="Salesforce Commerce Cloud" width="auto" height="40" />
