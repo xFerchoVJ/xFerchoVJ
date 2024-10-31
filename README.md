@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fernandovj.dev@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/fernando-viveros-jimenez-a805b6208)
+- 📄 Know about my experiences [LinkedIn]([www.linkedin.com/in/fernando-viveros-jimenez-a805b6208](https://www.linkedin.com/in/fernando-viveros-jimenez-a805b6208/))
 
 
 <h3 align="left">Languages and Tools:</h3>
