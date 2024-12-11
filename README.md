@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Viveros</h1>
-<h3 align="center">Systems engineer who loves software development from Mexico!</h3>
+<h3 align="center">Computer Systems engineer who loves software development from Mexico!</h3>
 
 - 🌱 I’m currently working with **React, Next.js, NestJS, & Ruby on Rails**
 
