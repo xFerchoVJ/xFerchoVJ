@@ -1,26 +1,104 @@
-<h1 align="center">Hi 👋, I'm Fernando Viveros</h1>
-<h3 align="center">Computer Systems engineer who loves software development from Mexico!</h3>
+# Hey, I'm Fernando! 👋
 
-- 🌱 I’m currently working with **React, Next.js, NestJS, & Ruby on Rails**
+### Senior Ruby on Rails Engineer · Indie Game Dev in Progress 🎮
 
-- 💬 Ask me about **Javascript, React, Rails or anything**
+I build web applications, solve complex problems, and turn ideas into software.  
+Currently exploring the world of game development with **Godot Engine** and **GDScript**.
 
-- 📫 How to reach me **fernandovj.dev@gmail.com**
+```ruby
+class Fernando < SeniorEngineer
+  def current_journey
+    {
+      professional_focus: "Ruby on Rails & Backend Engineering",
+      game_dev: "Learning Godot & GDScript",
+      mindset: "Build. Learn. Experiment. Repeat.",
+      based_in: "Mexico 🇲🇽"
+    }
+  end
+end
+```
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fernando-viveros-jimenez-a805b6208/)
+---
 
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <p align="left"><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TS" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank">
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap"width="40" height="40">
+- 💎 **Senior Ruby on Rails Engineer** passionate about building reliable, scalable applications.
+- 🛠️ Experienced in backend development, APIs, databases, and SaaS architecture.
+- 🎮 Learning **Godot 4** and **GDScript** to bring interactive worlds to life.
+- 🕹️ Exploring game mechanics, physics, gameplay programming, and multiplayer experiences.
+- 🤝 Interested in collaborating on interesting projects and learning alongside other developers.
+- 🌱 Always curious, always building.
+
+> From shipping web applications to creating worlds worth playing.
+
+---
+
+## 💻 Tech Stack
+
+### Professional Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Game Development — Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+---
+
+## 🎮 Beyond the Web
+
+I'm expanding my software engineering journey into game development.
+
+I'm learning how to design gameplay systems, work with scenes and nodes, implement physics, and eventually build multiplayer games.
+
+My goal is to combine my software engineering experience with creativity to build games that are fun to play and interesting to develop.
+
+**Current quest:** Learn by building, experiment with game mechanics, and ship my first games. 🕹️
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xFerchoVJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Fernando's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFerchoVJ&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xFerchoVJ&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to meet developers, exchange ideas, and collaborate on interesting projects.
+
+<p>
+  <a href="https://github.com/xFerchoVJ">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.salesforce.com/products/commerce-cloud/overview/" target="_blank">
-    <img src="https://a.sfdcstatic.com/shared/images/c360-nav/mobile_logo.png" alt="Salesforce Commerce Cloud" width="auto" height="40" />
+  <a href="www.linkedin.com/in/fernando-viveros-jimenez-a805b6208">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://nodejs.org/es/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1kdA13MUYkVnFmbnoO3dHwHaEV%26pid%3DApi&f=1" alt="Salesforce Commerce Cloud" width="auto" height="40" />
-  </a>
-  
-  
+</p>
 
+---
+
+<p align="center">
+  <i>"The best way to learn is to build something you wish existed."</i>
+  <br/><br/>
+  <b>💎 Rails by day. 🎮 Godot by night.</b>
+</p>
